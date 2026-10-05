@@ -3,9 +3,6 @@
   ============================================================================
   MAQUETA_CLASIFICADOR.URDF
   ============================================================================
-  Basado en el archivo base "maqueta.urdf" entregado por el docente
-  (fabrica_estable_v3). Se añade el módulo diferencial del grupo:
-
      "Analizador y organizador de múltiples monedas por medio de YOLO
       y conexión I2C de ESP32" -> ¿Moneda de Colombia, de otro país,
       o es un botón?
