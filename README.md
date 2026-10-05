@@ -41,10 +41,6 @@ Streamlit. El sistema integra:
 
 ![Elemento diferencial: clasificador de monedas por YOLO + I2C](docs/03_elemento_diferencial.png)
 
-> "Analizador y organizador de múltiples monedas por medio de YOLO y
-> conexión I2C de ESP32" — ¿Moneda de Colombia, de otro país, o es de
-> pronto un botón?
-
 ---
 
 ## Estado actual (avance del segundo parcial)
