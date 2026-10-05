@@ -8,6 +8,6 @@ directamente a este repositorio de GitHub.
 "no listado", Google Drive, o GitHub Releases, que admite archivos
 grandes) y pegar aquí el enlace.
 
-```
-Enlace del video: <pendiente>
-```
+Enlace del video:
+ https://drive.google.com/file/d/1YeeuwiZ78a70u5UPMqhn5FjHnYobzh1j/view?usp=sharing
+
